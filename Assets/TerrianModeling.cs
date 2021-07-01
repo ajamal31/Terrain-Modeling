@@ -1,4 +1,4 @@
-﻿/* Purpose: Builds the terrain */
+/* Purpose: Builds the terrain */
 
 using System.Collections;
 using System.Collections.Generic;

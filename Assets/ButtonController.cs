@@ -1,4 +1,4 @@
-﻿/* Purpose: Handle click for altitude mode button */
+/* Purpose: Handle click for altitude mode button */
 
 using System.Collections;
 using System.Collections.Generic;
